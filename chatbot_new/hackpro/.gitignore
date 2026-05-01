@@ -1,0 +1,61 @@
+# Node dependencies
+**/node_modules/
+
+pnpm-lock.yaml
+yarn.lock
+
+# Build outputs
+**/dist/
+**/build/
+**/.vite/
+
+# Environment files
+.env
+*.env
+backend/.env
+farmer_compensation_website/.env
+whatsapp-bot/.env
+
+# Logs and diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor/OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Coverage / testing
+coverage/
+.nyc_output/
+
+# Python (ML)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Uploads and generated assets
+backend/uploads/
+backend/result_mask.png
+backend/result_overlay.png
+
+# Model artifacts
+*.keras
+*.h5
+*.ckpt
+
+# Misc
+*.zip
+*.tar
+*.tgz
+*.tar.gz
