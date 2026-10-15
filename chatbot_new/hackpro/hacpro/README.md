@@ -1,4 +1,4 @@
-﻿# 🌾 KisaanSuraksha - Farmer Compensation Management System
+﻿# 🌾 Kisaan Suraksha-Multilingual WhatsApp Chatbot Integration
 
 A comprehensive digital platform designed to help Indian farmers register for crop damage compensation, manage their profiles, and receive AI-powered agricultural assistance. The system includes a web application, WhatsApp bot, and ML-powered crop damage assessment.
 
