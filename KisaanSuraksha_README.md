@@ -303,7 +303,6 @@ Damage Percentage =
 
 The inference pipeline also applies a 1% area threshold, treating smaller predicted regions as zero damage.
 
-> ⚠️ **Important:** This percentage represents the proportion of image pixels classified as damaged by the model. It does not directly establish the percentage of total farmland damaged, crop-yield loss, financial loss, or an officially approved compensation amount. Results require appropriate validation and, where necessary, human review.
 
 ---
 
