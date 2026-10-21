@@ -108,6 +108,3 @@ KisanSuraksha combines conversational agricultural assistance with a broader cro
 
 To empower farmers with accessible agricultural information and technology-assisted crop damage assessment, helping simplify access to agricultural support and compensation-related documentation.
 
-## 📄 License
-
-Add your chosen open-source license here if you intend to distribute the project under one.
