@@ -1,4 +1,5 @@
-# 🌾 KisaanSuraksha ### AI-Powered Crop Damage Assessment & Farmer Compensation System
+# 🌾 KisaanSuraksha
+### AI-Powered Crop Damage Assessment & Farmer Compensation System
 
 KisaanSuraksha is a full-stack platform designed to simplify crop-damage assessment and farmer compensation workflows. It combines a web application, an AI-powered crop-damage detection system, and a WhatsApp-based agricultural assistant to make digital farming support more accessible.
 
