@@ -323,10 +323,9 @@ For WhatsApp functionality, you will also need the appropriate Twilio and third-
 
 ### 1️⃣ Clone the Repository
 
-Replace `<repository-url>` with your actual GitHub repository URL.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/uday-tiwari21/kissan_suraksha_chatbot_2.0
 cd new_chatbo
 ```
 
