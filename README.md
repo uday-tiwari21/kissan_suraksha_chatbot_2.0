@@ -1,4 +1,4 @@
-# 🌾 KisanSuraksha — AI-Powered Agricultural WhatsApp Chatbot
+# 🌾 KisaanSuraksha — AI-Powered Agricultural WhatsApp Chatbot
 
 KisanSuraksha is an AI-powered agricultural assistance system designed to help farmers access agricultural information and crop damage assessment services through WhatsApp. It aims to make agricultural support accessible, multilingual, and available around the clock.
 
